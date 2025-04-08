@@ -4,7 +4,7 @@
 
 - 🌱 Brazilian developer in progress.  
 - 📚 Currently studying **Systems Analysis and Development**.  
-- 🌍 Languages: **Portuguese (Native) | English (Intermediate) | Chinese (Basic)**  
+- 🌍 Languages: **Portuguese (Native) | English (Intermediate) | Chinese (Basic)**.
 - 💜 Passionate about music, TV series, and books.  
 
 ---
